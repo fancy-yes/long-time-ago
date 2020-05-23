@@ -1,0 +1,58 @@
+{% extends "./base.html" %}
+
+{% block title %}
+{% if tag %}
+标签页: {{ tag.name }}
+{% elif category %}
+部门页: {{ category.name }}
+{% else %}
+首页
+{% endif %}
+{% endblock %}
+
+
+{% block main %}
+{% for post in post_list %}
+<div class="card post">
+    <div class="card-body">
+        {% if post.is_top %}
+
+        <h4 class="card-title" ><a href="{% url 'post-detail' post.id %}" class="text-info">【置顶】{{ post.title }}</a></h4>
+        {% endif %}
+        {% if not post.is_top %}
+        <h4 class="card-title"><a href="{% url 'post-detail' post.id %}" class="text-info">{{ post.title }}</a></h4>
+        {% endif %}
+        <span class="card-link"><a>{{ post.created_time }}</a></span>
+        <span class="card-link">作者:<a href="{% url 'author' post.owner.id %}" class="text-muted">{{ post.owner.username }}</a></span>
+        <span class="card-link">部门:<a href="{% url 'category-list' post.category_id %}" class="text-muted">{{ post.category.name }}</a></span>
+        <span class="card-link">标签:
+                {% for tag in post.tag.all %}
+                <a href="{% url 'tag-list' tag.id %}" class="text-muted">{{ tag.name }}</a>
+                {% endfor %}
+            </span>
+
+        <hr/>
+        <p class="card-text">{{ post.desc }}</p>
+        <p><a class="btn btn-outline-secondary btn-large" href="{% url 'post-detail' post.id %}">参看更多 »</a></p>
+    </div>
+</div>
+{% endfor %}
+
+{% if page_obj %}
+{% if page_obj.has_previous %}
+<ul class="pagination">
+    <li class="page-item"><a class="page-link" href="?page={{ page_obj.previous_page_number }}">上一页</a></li>
+</ul>
+
+{% endif %}
+
+Page {{ page_obj.number }} of {{ paginator.num_pages }}.
+
+{% if page_obj.has_next %}
+<ul class="pagination">
+    <li class="page-item"><a class="page-link" href="?page={{ page_obj.next_page_number }}">下一页</a></li>
+</ul>
+{% endif %}
+{% endif %}
+
+{% endblock %}

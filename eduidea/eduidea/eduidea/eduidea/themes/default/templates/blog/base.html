@@ -1,0 +1,37 @@
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>{% block title %}首页{% endblock %} - eduidea校园教务网络社区</title>
+    </head>
+    <body>
+
+    <div>
+        顶部所属部门：
+        {% for cate in navs %}
+        <a href="{% url 'category-list' cate.id %}">{{ cate.name }}</a>
+        {% endfor %}
+    </div>
+    <hr/>
+
+    {% block main %}
+    {% endblock %}
+
+    <hr/>
+    <div>
+        底部所属部门：
+        {% for cate in navs %}
+        <a href="{% url 'category-list' cate.id %}">{{ cate.name }}</a>
+        {% endfor %}
+    </div>
+
+    <hr/>
+    <div>侧边栏展示：
+        {% for sidebar in sidebars %}
+        <h4>{{ sidebar.title }}</h4>
+        {{ sidebar.content_html }}
+        {% endfor %}
+    </div>
+
+    </body>
+</html>

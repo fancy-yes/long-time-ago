@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65c45aa0-aba1-4215-bf85-3b792b1d62c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/comment/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/comment/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/comment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/comment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/block.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduidea/eduidea/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/eduidea/eduidea/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/media/article_images/2019/05/13/orzsyk.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/comment/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/blog/adminforms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="657">
+              <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+              <folding>
+                <element signature="e#1#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/blocks/sidebar_comments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/block.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+              <folding>
+                <element signature="e#641#654#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/comment/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-38">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/settings/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="185" column="18" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>INSTALLED</find>
+      <find>get_queryset()</find>
+      <find>save_m</find>
+      <find>reverse</find>
+      <find>search_fields</find>
+      <find>objects</find>
+      <find>Django</find>
+      <find>管理</find>
+      <find>urls</find>
+      <find>THEME</find>
+      <find>BASE_DIR</find>
+      <find>分类</find>
+      <find>title</find>
+      <find>HttpResponse</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\WS\eduidea\eduidea</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xujia" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/typeidea/typeidea/settings/base.py" />
+        <option value="$PROJECT_DIR$/eduidea/custom_site.py" />
+        <option value="$PROJECT_DIR$/eduidea/base_admin.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/config/sidebar_posts.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/config/sidebar_comments.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/config/blocks/sidebar_comments.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/blog/detail.html" />
+        <option value="$PROJECT_DIR$/../../ty-env/Lib/site-packages/django/contrib/admin/sites.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/blog/list.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/templates/blog/base.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/custom_site.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/super_site.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/result.html" />
+        <option value="$PROJECT_DIR$/eduidea/comment/templatetags.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/middleware.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/rss.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/admin.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/admin.py" />
+        <option value="$PROJECT_DIR$/eduidea/config/admin.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/adminx.py" />
+        <option value="$PROJECT_DIR$/eduidea/config/adminx.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/base_admin.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/templatetags/comment_block.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/views.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/autocomplete.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/default/templates/blog/list.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/default/templates/blog/base.html" />
+        <option value="$PROJECT_DIR$/eduidea/blog/adminold.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/__init__.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/settings/__init__.py" />
+        <option value="$PROJECT_DIR$/eduidea/config/models.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/models.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/adminx.py" />
+        <option value="$PROJECT_DIR$/eduidea/config/views.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/adminforms.py" />
+        <option value="$PROJECT_DIR$/eduidea/blog/views.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/settings/develop.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/eduidea/tools/views.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/blocks/sidebar_comments.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/blocks/sidebar_posts.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/links.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/base.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/detail.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/list.html" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/settings/base.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/urls.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/models.py" />
+        <option value="$PROJECT_DIR$/eduidea/comment/forms.py" />
+        <option value="$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/block.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1844" />
+    <option name="y" value="-143" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="eduidea" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="eduidea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ty-env/hrms-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\static" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\templates\comment" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\static\js" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\templates\blog\img" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\templates\responsive-nav" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\static\img" />
+      <recent name="D:\WS\eduidea\eduidea" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\static" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\templates\comment" />
+      <recent name="D:\WS\eduidea\eduidea\eduidea\eduidea\themes\bootstrap\templates\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c45aa0-aba1-4215-bf85-3b792b1d62c0" name="Default Changelist" comment="" />
+      <created>1555334692965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555334692965</updated>
+      <workItem from="1555334696011" duration="1636000" />
+      <workItem from="1555337845159" duration="29051000" />
+      <workItem from="1555831096399" duration="7923000" />
+      <workItem from="1555857247522" duration="20303000" />
+      <workItem from="1555920468763" duration="6035000" />
+      <workItem from="1555928734189" duration="5722000" />
+      <workItem from="1556002395501" duration="382000" />
+      <workItem from="1556289594709" duration="3723000" />
+      <workItem from="1556666641394" duration="987000" />
+      <workItem from="1556795476956" duration="10992000" />
+      <workItem from="1556881271393" duration="8088000" />
+      <workItem from="1557231886507" duration="2837000" />
+      <workItem from="1557269331356" duration="9123000" />
+      <workItem from="1557283951392" duration="1816000" />
+      <workItem from="1557288690534" duration="1361000" />
+      <workItem from="1557292179806" duration="13386000" />
+      <workItem from="1557350930622" duration="27203000" />
+      <workItem from="1557457667690" duration="1175000" />
+      <workItem from="1557496853811" duration="4201000" />
+      <workItem from="1557534264685" duration="29224000" />
+      <workItem from="1557669574145" duration="18830000" />
+      <workItem from="1557748325238" duration="12771000" />
+      <workItem from="1557800176011" duration="1183000" />
+      <workItem from="1557809216313" duration="26921000" />
+      <workItem from="1557973017096" duration="1897000" />
+      <workItem from="1557990615826" duration="9147000" />
+      <workItem from="1558005357307" duration="9625000" />
+      <workItem from="1558018051623" duration="16981000" />
+      <workItem from="1558071117663" duration="5745000" />
+      <workItem from="1558100624091" duration="59392000" />
+      <workItem from="1558417776762" duration="3708000" />
+      <workItem from="1558468890836" duration="4819000" />
+      <workItem from="1558595103507" duration="3895000" />
+      <workItem from="1558617145846" duration="1202000" />
+      <workItem from="1558695740484" duration="6381000" />
+      <workItem from="1558751986925" duration="18080000" />
+      <workItem from="1559236019338" duration="14679000" />
+      <workItem from="1559529922576" duration="5832000" />
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1555336245564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555336245564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="406256000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="-391" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23927614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32855093" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4181818" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3711048" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3292683" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.24723756" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <MESSAGE value="创建blog App并建立模型&#10;创建config App并建立模型&#10;创建comment App并建立模型" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建blog App并建立模型&#10;创建config App并建立模型&#10;创建comment App并建立模型" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/config/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/adminold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/adminold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/config/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/static/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="184" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="184" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/config/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/config/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ty-env/Lib/site-packages/qrcode/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ty-env/Lib/site-packages/qrcode/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="276" column="61" lean-forward="true" selection-start-line="276" selection-start-column="61" selection-end-line="276" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/rss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/settings/develop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="11" selection-start-line="11" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ty-env/Lib/site-packages/django/template/context_processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/tools/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/tools/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ty-env/Lib/site-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9690">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/tools/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/tools/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/tools/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/static/img/海报1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/static/img/海报2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/blocks/sidebar_posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/media/article_images/2019/05/20/llftor.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/media/article_images/2019/05/14/lxtedb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/media/article_images/2019/05/13/orzsyk.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/config/blocks/sidebar_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/blog/adminforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+          <folding>
+            <element signature="e#1#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/blog/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="185" column="18" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+          <folding>
+            <element signature="e#641#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/comment/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eduidea/eduidea/themes/bootstrap/templates/comment/block.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

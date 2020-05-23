@@ -1,0 +1,51 @@
+{% extends "blog/base.html" %}
+{% load comment_block %}
+
+{% block title %}友情链接{% endblock %}
+
+{% block main %}
+<div class="row">
+    <div class="col">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">常用系统</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for link in link_list %}
+            {% if link.weight == 1 %}
+            <tr>
+                <th scope="row">{{ forloop.counter }}</th>
+                <td><a href="{{ link.href }}" class="text-info">{{ link.title }}</a></td>
+            </tr>
+            {% endif %}
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="col">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">友情链接</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for link in link_list %}
+            {% if link.weight != 1 %}
+            <tr>
+                <th scope="row">{{ forloop.counter }}</th>
+                <td><a href="{{ link.href }}" class="text-info">{{ link.title }}</a></td>
+            </tr>
+            {% endif %}
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>   
+</div>
+
+{% comment_block request.path %}
+{% endblock %}

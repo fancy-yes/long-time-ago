@@ -1,0 +1,3 @@
+[console_scripts]
+eduidea_manage = manage:main
+

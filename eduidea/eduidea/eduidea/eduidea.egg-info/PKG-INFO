@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: eduidea
+Version: 0.1
+Summary: CMS base on Django
+Home-page: https://xujia028.cn
+Author: xujia
+Author-email: xujia028@qq.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Blog :: Django CMS
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
