@@ -21,7 +21,7 @@ setup(
         'colorama==0.4.1',
         'defusedxml==0.6.0',
         'diff-match-patch==20181111',
-        'Django==1.11.28',
+        'Django==1.11.29',
         'django-autocomplete-light==3.2.10',
         'django-ckeditor==5.4.0',
         'django-crispy-forms==1.7.2',
