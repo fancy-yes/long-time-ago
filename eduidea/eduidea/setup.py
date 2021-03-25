@@ -39,7 +39,7 @@ setup(
         'openpyxl==2.6.2',
         'Pillow==5.1.0',
         'pytz==2019.1',
-        'PyYAML==5.1',
+        'PyYAML==5.4',
         'qrcode==6.1',
         'six==1.12.0',
         'tablib==0.13.0',
